@@ -11,6 +11,7 @@ Analysis of a 5 lakh+ rows Myntra fashion apparel dataset to gain insights into 
 
 ## 📂 Dataset
 [Myntra Fashion Clothing Dataset](https://drive.google.com/file/d/1CDaWFvkccjdUw1E_gipTKOfMqiHNhNQL/view)
+[Cleaned & Analysed Excel File](https://docs.google.com/spreadsheets/d/1MgoR5qF8uLrX98usT0T3lx7CY2sbQ7N3/edit?usp=drive_link&ouid=100591617236635221238&rtpof=true&sd=true)
 | Details | Info |
 |---------|------|
 | Records | 5,26,564 rows, 13 columns |
