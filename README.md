@@ -51,4 +51,5 @@ Analysis of a 5 lakh+ rows Myntra fashion apparel dataset to gain insights into 
 ---
 
 ## 👤 Author
-**Som Dubey** — [LinkedIn Profile Link](www.linkedin.com/in/som-dubey002)
+**Som Dubey**
+[LinkedIn Profile Link](www.linkedin.com/in/som-dubey002)
